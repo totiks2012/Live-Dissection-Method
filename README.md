@@ -100,7 +100,7 @@ Live Dissection Method (LDM) Transforms AI from answer-generator to complexity n
 
 ###  Narrative Alchemist: Интерактивный комбайн для нарративной декомпозиции
 
-**[https://github.com/totiks2012/The-Alchemist-of-Narratives/tree/main]** | **[Демо на GitHub Pages]**
+**https://github.com/totiks2012/The-Alchemist-of-Narratives/tree/main**
 
 Инструмент представляет собой веб-интерфейс с шестью рабочими досками:
 
